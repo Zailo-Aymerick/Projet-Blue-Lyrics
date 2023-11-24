@@ -31,7 +31,7 @@ $(function () {
       buffInterval = null,
       tFlag = false,
       albums = [ 
-        "inconnu",
+        "L'escaladeur",
         "Silence",
         "Dear Alcohol",
         "Dear Mom",
@@ -57,7 +57,7 @@ $(function () {
         "I Love The Sound Of Silence"
       ],
       trackNames = [
-        "gazo soolking",
+        "Hello Geek",
         "Disturbed",
         "Dax",
         "Dax",
@@ -85,8 +85,9 @@ $(function () {
       albumArtworks = ["_1", "_2", "_3", "_4", "_5","_6","_7","_8","_9","_10","_11","_12","_13","_14","_15","_16","_17","_18","_19","_20","_21","_22","_23","_24"],
       trackUrl = [
         
-        "musique/soolgazo.mp3",
+        "../musique/soolgazo.mp3",
         "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Marshmello%20-%20Silence%20ft.%20Khalid.mp3",
+        "/musique/soolgazo.mp3",
         "https://www.six9ja.com/wp-content/uploads/2022/06/Dax_Ft_Elle_King_-_Dear_Alcohol_Remix.mp3",
         
         "http://six9ja.com/wp-content/uploads/2021/05/Dax_-_Dear_Mom.mp3",
