@@ -1,13 +1,12 @@
 body {
-    background-color: black;
+    background: linear-gradient(to bottom, blue, black);
     color: white;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
 }
 
 input, textarea {
     margin-bottom: 10px;
+}
+
+.container {
+    min-height: 70vh;
 }
