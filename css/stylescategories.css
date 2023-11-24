@@ -11,7 +11,7 @@ body {
 }
 
 
-h1 {
+.titre h1 {
   font-style: normal;
   font-weight: bolder;
   font-family: 'Rock Salt', cursive;

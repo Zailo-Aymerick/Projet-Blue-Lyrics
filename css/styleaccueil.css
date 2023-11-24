@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: "toto";
   src: url(../Polices/2e03506c1c88c8fe6d93b46e611e2353.png)
-}
+} */
 
 body {
   margin: 0px;
@@ -29,13 +29,12 @@ main {
 
 p{
   text-align: start;
-  fon;
+  
 }
 
 h2 {
   text-align: start;
   padding: 10px 0px;
-
 }
 
 h3 {
@@ -43,7 +42,8 @@ h3 {
   font-size: 45px;
   text-decoration: underline;
   padding: 10px 0px;
-
+  font-family: 'Rock Salt', cursive;
+  
 }
 
 br {
@@ -59,6 +59,8 @@ h4 {
 
 h5{
   padding: 10px 0px;
+  font-family: 'Lemonada', cursive; 
+  color: yellow;
 }
 
 .image-titre {
@@ -70,7 +72,7 @@ h5{
   flex: 1;
   padding-right: 20px;
   padding-left: 25px;
-  font-family:monospace ;
+  font-family: 'Merriweather Sans', sans-serif; ;
   font-style: normal;
   font-size: larger;
 }
